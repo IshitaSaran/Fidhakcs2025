@@ -1,0 +1,43 @@
+.landing-container {
+  background-color: #e8bde8;
+  text-align: center;
+  padding: 2rem;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.text-top {
+  margin-bottom: 1.5rem;
+}
+
+.main-title {
+  font-size: 3rem;
+  font-family: 'Brush Script MT', cursive;
+  margin: 0;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+.landing-image {
+  max-width: 100%;
+  height: auto;
+  margin: 2rem 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.footer-text {
+  font-size: 1rem;
+  color: #333;
+}
+
+.highlight {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 0.2rem 0.5rem;
+  font-weight: bold;
+}
